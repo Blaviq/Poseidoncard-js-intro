@@ -1,0 +1,38 @@
+
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(238, 243, 245);
+    color: white;
+}
+    
+.fourth-name {
+    color: skyblue;
+}
+    
+i {
+    color: skyblue;
+    margin-right: 5px;
+}
+        
+    
+p {
+    margin-top: -2px;
+}
+    
+.card {
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("https://cdn.pixabay.com/photo/2016/11/28/19/01/composing-1865691_960_720.jpg");      
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    padding: 2em;
+    box-shadow: rgb(1, 59, 68) 0 0 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 430px;
+}
+    
