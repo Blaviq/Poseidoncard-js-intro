@@ -35,4 +35,24 @@ p {
     align-items: center;
     width: 430px;
 }
+
+
+@media (max-width: 426px) {
+    .container {
+        width: 90%;
+    }
+
+    .card {
+        padding: 50px 20px;
+    }
+
+    .card h1 {
+        font-size: 30px;
+    }
+
+    .card p {
+        font-size: 17px;
+    }
+}
+    
     
